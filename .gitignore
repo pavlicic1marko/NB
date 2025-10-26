@@ -1,0 +1,17 @@
+NB/NB/__pycache__/**
+NB/NB/__pycache__/settings.cpython-311.pyc
+NB/NB/__pycache__/urls.cpython-311.pyc
+NB/NB/__pycache__/wsgi.cpython-311.pyc
+NB/NbWebApp/__pycache__/__init__.cpython-311.pyc
+NB/NbWebApp/__pycache__/admin.cpython-311.pyc
+NB/NbWebApp/__pycache__/apps.cpython-311.pyc
+NB/NbWebApp/__pycache__/models.cpython-311.pyc
+NB/NbWebApp/__pycache__/urls.cpython-311.pyc
+NB/NbWebApp/__pycache__/views.cpython-311.pyc
+NB/NbWebApp/migrations/__pycache__/__init__.cpython-311.pyc
+NB/NbWebApp/Pdf/__pycache__/__init__.cpython-311.pyc
+NB/NbWebApp/Pdf/__pycache__/GK_pdf.cpython-311.pyc
+NB/NbWebApp/__pycache__/*
+NB/NbWebApp/migrations/__pycache__/__init__.cpython-312.pyc
+NB/NbWebApp/Pdf/__pycache__/GK_pdf.cpython-312.pyc
+NB/NbWebApp/Pdf/__pycache__/__init__.cpython-312.pyc
